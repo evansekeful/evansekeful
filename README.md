@@ -3,7 +3,7 @@
 ### Hi there! 👋 
 I don't always contribute here🔭, but when I do it's because I want to share something I think is neat. :blush: 
 
-### While you're here..
+### While you're here...
 Check out the lists :arrow_heading_up: I've curated under my stars :star: since 2014. 
 
 <!--
