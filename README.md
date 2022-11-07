@@ -6,7 +6,7 @@ I don't always contribute here🔭, but when I do it's because I want to share s
 ### While you're here...
 Check out the lists :arrow_heading_up: I've curated under my stars :star: since 2014. 
 
-Also some sites I think are pretty cool :nerd_face:...
+Also some sites I think are pretty cool :nerd_face::
 * [Glitch](https://glitch.com/)
 * [Hugging Face](https://https://huggingface.co/)
 * [42 Papers](https://42papers.com/)
