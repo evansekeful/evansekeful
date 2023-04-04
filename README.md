@@ -11,6 +11,7 @@ Also some sites I think are pretty cool :nerd_face::
 * [Hugging Face](https://huggingface.co/)
 * [42 Papers](https://42papers.com/)
 * [Papers w/ Code](https://paperswithcode.com/)
+* [Pudding](https://pudding.cool/)
 
 
 <!--
