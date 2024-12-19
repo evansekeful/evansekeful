@@ -12,6 +12,7 @@ Also some sites I think are pretty cool :nerd_face::
 * [42 Papers](https://42papers.com/)
 * [Papers w/ Code](https://paperswithcode.com/)
 * [Pudding](https://pudding.cool/)
+* [Data Colada](https://datacolada.org/)
 
 
 <!--
