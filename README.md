@@ -9,7 +9,6 @@ Check out the lists :arrow_heading_up: I've curated under my stars :star: since 
 Also some sites I think are pretty cool :nerd_face::
 * [Glitch](https://glitch.com/)
 * [Hugging Face](https://huggingface.co/)
-* [42 Papers](https://42papers.com/)
 * [Papers w/ Code](https://paperswithcode.com/)
 * [Pudding](https://pudding.cool/)
 * [Data Colada](https://datacolada.org/)
